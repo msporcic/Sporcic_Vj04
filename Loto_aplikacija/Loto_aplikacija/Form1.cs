@@ -16,5 +16,25 @@ namespace Loto_aplikacija
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void FrmLoto(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupbox_uplaceni(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
